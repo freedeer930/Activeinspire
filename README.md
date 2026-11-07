@@ -198,3 +198,6 @@ This repository serves as the official landing page for ActiveInspire. The softw
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ActiveInspire today!**
+
+---
+**Last updated:** 2026-11-07 09:48:14 UTC
