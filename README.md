@@ -200,4 +200,4 @@ This repository serves as the official landing page for ActiveInspire. The softw
 **Get the most recent version of ActiveInspire today!**
 
 ---
-**Last updated:** 2026-11-09 15:44:41 UTC
+**Last updated:** 2026-11-10 00:02:34 UTC
